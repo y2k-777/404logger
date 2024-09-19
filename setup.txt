@@ -3,7 +3,7 @@
 1. Clone the repository:
     ```bash
     git clone https://github.com/y2k777/404logger
-    cd ip-logger
+    cd 404logger
     ```
 
 2. Install the required dependencies:
@@ -16,7 +16,7 @@
 
 1. Start the Flask server:
     ```bash
-    python ip_logger.py
+    python 404logger.py
     ```
 
 
