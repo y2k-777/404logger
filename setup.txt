@@ -1,0 +1,39 @@
+## Installation ##
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/ip-logger.git
+    cd ip-logger
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+## Usage ##
+
+1. Start the Flask server:
+    ```bash
+    python ip_logger.py
+    ```
+
+
+2. Choose from the menu:
+   - **Option 1**: Generate a link by starting the Flask server. Then expose it using `ngrok` by running:
+     ```bash
+     ngrok http 5000
+     ```
+     Share the generated `ngrok` URL to log visitor IPs.
+   
+   - **Option 2**: Set a custom redirect URL. Users will be redirected here after their IP is logged.
+
+   - **Option 3**: Exit the application.
+
+3. When someone visits the link, their IP and details will be logged in the terminal.
+
+
+## Example Output ##
+
+--- New Visitor --- IP: 192.168.1.1 Country: United States Region: California City: San Francisco ZIP: 94107 Latitude: 37.7749 Longitude: -122.4194 Timezone: America/Los_Angeles ISP: Comcast Cable Org: Comcast Cable Communications LLC
