@@ -11,7 +11,7 @@ This is a Python-based IP logger built using Flask. It captures a user's IP addr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ip-logger.git
+    git clone https://github.com/y2k777/404logger
     cd ip-logger
     ```
 
