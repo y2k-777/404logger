@@ -52,3 +52,5 @@ Latitude: 37.7749
 Longitude: -122.4194 
 Timezone: America/Los_Angeles 
 ISP: Comcast Cable Org: Comcast Cable Communications LLC
+
+![Screenshot 2024-09-19 at 11 53 14 pm](https://github.com/user-attachments/assets/d4f46da3-b679-4411-9f7d-241199120179)
