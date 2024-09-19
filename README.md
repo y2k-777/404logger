@@ -12,7 +12,7 @@ This is a Python-based IP logger built using Flask. It captures a user's IP addr
 1. Clone the repository:
     ```bash
     git clone https://github.com/y2k777/404logger
-    cd ip-logger
+    cd 404logger
     ```
 
 2. Install the required dependencies:
@@ -24,7 +24,7 @@ This is a Python-based IP logger built using Flask. It captures a user's IP addr
 
 1. Start the Flask server:
     ```bash
-    python ip_logger.py
+    python 404logger.py
     ```
 
 2. Choose from the menu:
