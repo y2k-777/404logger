@@ -38,7 +38,8 @@ This is a Python-based IP logger built using Flask. It captures a user's IP addr
 
    - **Option 3**: Exit the application.
 
-3. When someone visits the link, their IP and details will be logged in the terminal.
+3. When someone visits the link, their IP and details will be logged in the terminal. 
+     **NOTE: Send the ngrok forwarding link to the person you wish to IP log. You can customise this permanently with a paid ngrok account, or use an URL shortner to change the link.
 
 ## Example Output
 
