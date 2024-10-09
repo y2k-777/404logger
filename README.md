@@ -1,4 +1,4 @@
-# 404 IP Logger
+# 404 IP Logger (Skid away)
 
 This is a Python-based IP logger built using Flask. It captures a user's IP address and additional details like country, timezone, and ISP. The user is redirected to a URL of your choice after their IP is logged.
 
